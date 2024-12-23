@@ -1,25 +1,31 @@
-# StarklingsApp Challenge
+# StarklingsApp Challenge - Starknet Cairo Bootcamp
 
-This repository contains my completed assignment for the StarklingsApp challenge as part of the Starknet Cairo Bootcamp.
+## Project Overview
+This repository contains my solution for the StarklingsApp challenge as part of the Starknet Cairo Bootcamp. The challenge focuses on implementing smart contracts using Cairo programming language.
 
-## Challenge Description
+## Challenge Details
+The StarklingsApp challenge involves:
+- Setting up a Cairo development environment
+- Understanding and implementing smart contracts
+- Testing and deploying contracts on Starknet
 
-The StarklingsApp challenge involves working with Cairo smart contracts and understanding the fundamentals of Starknet development.
-
-## Implementation Details
-
-[Include your implementation details, code explanations, and any important notes about your solution]
+## Implementation
+[Your implementation details and explanations will go here]
 
 ## How to Run
+```bash
+# Instructions for running your solution
+```
 
-[Include instructions on how to run and test your implementation]
+## Testing
+```bash
+# Instructions for testing your solution
+```
 
 ## Resources Used
-
-- Starknet Documentation
-- Cairo Programming Language Documentation
-- [Any other resources you used]
+- [Starknet Documentation](https://docs.starknet.io/documentation/)
+- [Cairo Programming Language](https://www.cairo-lang.org/)
+- Starknet Cairo Bootcamp Materials
 
 ## License
-
-[Include your preferred license]
+MIT License

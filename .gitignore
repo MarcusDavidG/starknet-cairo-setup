@@ -1,0 +1,22 @@
+# Scarb build artifacts
+target/
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
+.env.local
+
+# Build output
+dist/
+build/
+
+# Debug files
+debug/
